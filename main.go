@@ -32,4 +32,6 @@ func main() {
 
 	//TIP Исправьте выражение 3 / 4, чтоб результат был равен 0.75.
 	fmt.Println(3.0 / 4.0)
+	
+	fmt.Println("end of the file")
 }
